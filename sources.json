@@ -1,0 +1,827 @@
+{
+  "universities": [
+    {
+      "name": "北京大学",
+      "city": "北京"
+    },
+    {
+      "name": "中国人民大学",
+      "city": "北京"
+    },
+    {
+      "name": "清华大学",
+      "city": "北京"
+    },
+    {
+      "name": "北京航空航天大学",
+      "city": "北京"
+    },
+    {
+      "name": "北京理工大学",
+      "city": "北京"
+    },
+    {
+      "name": "中国农业大学",
+      "city": "北京"
+    },
+    {
+      "name": "北京师范大学",
+      "city": "北京"
+    },
+    {
+      "name": "中央民族大学",
+      "city": "北京"
+    },
+    {
+      "name": "南开大学",
+      "city": "天津"
+    },
+    {
+      "name": "天津大学",
+      "city": "天津"
+    },
+    {
+      "name": "大连理工大学",
+      "city": "辽宁"
+    },
+    {
+      "name": "东北大学",
+      "city": "辽宁"
+    },
+    {
+      "name": "吉林大学",
+      "city": "吉林"
+    },
+    {
+      "name": "哈尔滨工业大学",
+      "city": "黑龙江"
+    },
+    {
+      "name": "复旦大学",
+      "city": "上海"
+    },
+    {
+      "name": "同济大学",
+      "city": "上海"
+    },
+    {
+      "name": "上海交通大学",
+      "city": "上海"
+    },
+    {
+      "name": "华东师范大学",
+      "city": "上海"
+    },
+    {
+      "name": "南京大学",
+      "city": "江苏"
+    },
+    {
+      "name": "东南大学",
+      "city": "江苏"
+    },
+    {
+      "name": "浙江大学",
+      "city": "浙江"
+    },
+    {
+      "name": "中国科学技术大学",
+      "city": "安徽"
+    },
+    {
+      "name": "厦门大学",
+      "city": "福建"
+    },
+    {
+      "name": "山东大学",
+      "city": "山东"
+    },
+    {
+      "name": "中国海洋大学",
+      "city": "山东"
+    },
+    {
+      "name": "武汉大学",
+      "city": "湖北"
+    },
+    {
+      "name": "华中科技大学",
+      "city": "湖北"
+    },
+    {
+      "name": "湖南大学",
+      "city": "湖南"
+    },
+    {
+      "name": "中南大学",
+      "city": "湖南"
+    },
+    {
+      "name": "国防科技大学",
+      "city": "湖南"
+    },
+    {
+      "name": "中山大学",
+      "city": "广东"
+    },
+    {
+      "name": "华南理工大学",
+      "city": "广东"
+    },
+    {
+      "name": "四川大学",
+      "city": "四川"
+    },
+    {
+      "name": "电子科技大学",
+      "city": "四川"
+    },
+    {
+      "name": "重庆大学",
+      "city": "重庆"
+    },
+    {
+      "name": "西安交通大学",
+      "city": "陕西"
+    },
+    {
+      "name": "西北工业大学",
+      "city": "陕西"
+    },
+    {
+      "name": "西北农林科技大学",
+      "city": "陕西"
+    },
+    {
+      "name": "兰州大学",
+      "city": "甘肃"
+    }
+  ],
+  "sources": [
+    {
+      "university": "北京大学",
+      "level": "学校",
+      "type": "list",
+      "url": "https://admission.pku.edu.cn/zsxx/sszs/tjms/index.htm",
+      "verified": "2026-08-31"
+    },
+    {
+      "university": "清华大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yz.tsinghua.edu.cn/info/1008/3233.htm",
+      "verified": "2026-06-18"
+    },
+    {
+      "university": "北京航空航天大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yzb.buaa.edu.cn/info/1036/3601.htm",
+      "verified": "2026-09-03"
+    },
+    {
+      "university": "北京理工大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://grd.bit.edu.cn/zsgz/ssyjs/gzzd_ss/6b1d8fd351f842058342d4d25e9c04cb.htm",
+      "verified": "2026-09-01"
+    },
+    {
+      "university": "中国农业大学",
+      "level": "学校",
+      "type": "list",
+      "url": "https://yz.cau.edu.cn/col/col41731/index.html",
+      "verified": "2026-07-14"
+    },
+    {
+      "university": "北京师范大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yz.bnu.edu.cn/detail/be0e6268-0bfd-4a34-aa31-e72207bf2577",
+      "verified": "2026-09-02"
+    },
+    {
+      "university": "中央民族大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://grs.muc.edu.cn/yjsyzsw/info/1063/5989.htm",
+      "verified": "2026-07-22"
+    },
+    {
+      "university": "南开大学",
+      "level": "学校",
+      "type": "list",
+      "url": "https://yzb.nankai.edu.cn/2583/list1.htm",
+      "verified": "2026-09-22"
+    },
+    {
+      "university": "天津大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "verified": "2026-07-02"
+    },
+    {
+      "university": "大连理工大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://gs.dlut.edu.cn/info/1162/51862.htm",
+      "verified": "2026-09-15"
+    },
+    {
+      "university": "东北大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yz.neu.edu.cn/2026/0720/c5932a458191/page.htm",
+      "verified": "2026-07-20"
+    },
+    {
+      "university": "哈尔滨工业大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yzb.hit.edu.cn/2026/0717/c22276a397589/page.htm",
+      "verified": "2026-07-19"
+    },
+    {
+      "university": "复旦大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://gsao.fudan.edu.cn/fb/0b/c15014a785163/page.htm",
+      "verified": "2026-07-03"
+    },
+    {
+      "university": "同济大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yz.tongji.edu.cn/info/1010/4220.htm",
+      "verified": "2026-07-06"
+    },
+    {
+      "university": "华东师范大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yjszs.ecnu.edu.cn/c2/c6/c43264a770758/page.htm",
+      "verified": "2026-07-24"
+    },
+    {
+      "university": "南京大学",
+      "level": "学校",
+      "type": "list",
+      "url": "https://yzb.nju.edu.cn/",
+      "verified": "2026-09-08"
+    },
+    {
+      "university": "东南大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yzb.seu.edu.cn/2026/0706/c6676a575627/page.htm",
+      "verified": "2026-07-06"
+    },
+    {
+      "university": "浙江大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://www.grs.zju.edu.cn/yjszs/2026/0805/c28479a3193539/page.htm",
+      "verified": "2026-08-05"
+    },
+    {
+      "university": "中国科学技术大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yz.ustc.edu.cn/article/2850/182",
+      "verified": "2026-09-03"
+    },
+    {
+      "university": "厦门大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://zs.xmu.edu.cn/info/1174/36812.htm",
+      "verified": "2026-09-16"
+    },
+    {
+      "university": "山东大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://www.yz.sdu.edu.cn/info/1022/1463.htm",
+      "verified": "2026-08-28"
+    },
+    {
+      "university": "武汉大学",
+      "level": "学校",
+      "type": "list",
+      "url": "https://yz.whu.edu.cn/",
+      "verified": "2026-09-03"
+    },
+    {
+      "university": "华中科技大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://gszs.hust.edu.cn/info/1106/4142.htm",
+      "verified": "2026-09-09"
+    },
+    {
+      "university": "湖南大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://gra.hnu.edu.cn/info/1075/10560.htm",
+      "verified": "2026-08-28"
+    },
+    {
+      "university": "中南大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yz.csu.edu.cn/info/1009/1538.htm",
+      "verified": "2026-09-18"
+    },
+    {
+      "university": "中山大学",
+      "level": "学校",
+      "type": "list",
+      "url": "https://graduate.sysu.edu.cn/zsw/",
+      "verified": "2026-09-10"
+    },
+    {
+      "university": "重庆大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yz.cqu.edu.cn/news/2026-06/2553.html",
+      "verified": "2026-06-22"
+    },
+    {
+      "university": "四川大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yz.scu.edu.cn/zsxx/Details/0f4bc2fc-e7d8-455d-b0e3-8ad680196df1",
+      "verified": "2026-09-08"
+    },
+    {
+      "university": "电子科技大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yz.uestc.edu.cn/info/1082/5936.htm",
+      "verified": "2026-09-04"
+    },
+    {
+      "university": "西安交通大学",
+      "level": "学校",
+      "type": "list",
+      "url": "https://yz.xjtu.edu.cn/index/tms.htm",
+      "verified": "2026-09-02"
+    },
+    {
+      "university": "西北工业大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+      "verified": "2026-09-04"
+    },
+    {
+      "university": "西北农林科技大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yz.nwafu.edu.cn/tzgg/efc5ad22976f45b595487499b6c39d8e.htm",
+      "verified": "2026-09-10"
+    },
+    {
+      "university": "中国人民大学",
+      "level": "学校",
+      "type": "list",
+      "url": "https://pgs.ruc.edu.cn/sszs/17.htm",
+      "verified": "2026-09-23"
+    },
+    {
+      "university": "吉林大学",
+      "level": "学校",
+      "type": "article",
+      "url": "https://yzb.jlu.edu.cn/info/1047/3637.htm",
+      "verified": "2026-09-11"
+    },
+    {
+      "university": "上海交通大学",
+      "level": "学校",
+      "type": "list",
+      "url": "https://yzb.sjtu.edu.cn/",
+      "verified": "2026-09-23"
+    },
+    {
+      "university": "中国海洋大学",
+      "level": "学校",
+      "type": "list",
+      "url": "https://yz.ouc.edu.cn/",
+      "verified": "2026-09-23"
+    },
+    {
+      "university": "国防科技大学",
+      "level": "学校",
+      "type": "list",
+      "url": "https://yjszs.nudt.edu.cn/",
+      "verified": "2026-09-23"
+    },
+    {
+      "university": "华南理工大学",
+      "level": "学校",
+      "type": "list",
+      "url": "https://yz.scut.edu.cn/",
+      "verified": "2026-09-23"
+    },
+    {
+      "university": "兰州大学",
+      "level": "学校",
+      "type": "list",
+      "url": "https://yz.lzu.edu.cn/",
+      "verified": "2026-09-23"
+    }
+  ],
+  "seedNotices": [
+    {
+      "university": "清华大学",
+      "level": "学校",
+      "title": "关于清华大学2027年接收优秀应届本科毕业生免试攻读研究生报名的通知",
+      "date": "2026-06-18",
+      "deadline": "2026-07-28",
+      "url": "https://yz.tsinghua.edu.cn/info/1008/3233.htm",
+      "status": "校级报名已截止",
+      "source": "清华大学研究生招生网"
+    },
+    {
+      "university": "北京航空航天大学",
+      "level": "学校",
+      "title": "北京航空航天大学2027年接收推荐免试攻读研究生相关工作通知",
+      "date": "2026-09-03",
+      "deadline": "以原文为准",
+      "url": "https://yzb.buaa.edu.cn/info/1036/3601.htm",
+      "status": "已发布",
+      "source": "北京航空航天大学研究生招生信息网"
+    },
+    {
+      "university": "北京理工大学",
+      "level": "学校",
+      "title": "北京理工大学2027年接收推荐免试攻读研究生办法",
+      "date": "2026-09-01",
+      "deadline": "以原文为准",
+      "url": "https://grd.bit.edu.cn/zsgz/ssyjs/gzzd_ss/6b1d8fd351f842058342d4d25e9c04cb.htm",
+      "status": "已发布",
+      "source": "北京理工大学研究生院"
+    },
+    {
+      "university": "北京师范大学",
+      "level": "学校",
+      "title": "北京师范大学2027年接收校外推荐免试硕士/博士研究生办法",
+      "date": "2026-09-02",
+      "deadline": "以原文为准",
+      "url": "https://yz.bnu.edu.cn/detail/be0e6268-0bfd-4a34-aa31-e72207bf2577",
+      "status": "已发布",
+      "source": "北京师范大学研究生招生网"
+    },
+    {
+      "university": "中央民族大学",
+      "level": "学校",
+      "title": "中央民族大学2027年接收推荐免试研究生（含直博生）预报名通知",
+      "date": "2026-07-22",
+      "deadline": "请查看学院后续通知",
+      "url": "https://grs.muc.edu.cn/yjsyzsw/info/1063/5989.htm",
+      "status": "已发布",
+      "source": "中央民族大学研究生招生网"
+    },
+    {
+      "university": "南开大学",
+      "level": "学校",
+      "title": "南开大学2027年推荐优秀应届本科毕业生免试攻读硕士学位研究生和直接攻读博士学位研究生招生录取工作办法",
+      "date": "2026-09-22",
+      "deadline": "以原文为准",
+      "url": "https://yzb.nankai.edu.cn/2583/list1.htm",
+      "status": "已发布",
+      "source": "南开大学研究生招生网"
+    },
+    {
+      "university": "天津大学",
+      "level": "学校",
+      "title": "天津大学2027年接收优秀应届本科毕业生免试攻读研究生预报名通知",
+      "date": "2026-07-02",
+      "deadline": "2026-09-20",
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "status": "校级预报名已截止",
+      "source": "天津大学研究生招生网"
+    },
+    {
+      "university": "大连理工大学",
+      "level": "学校",
+      "title": "大连理工大学2027年接收推荐免试攻读硕士（博士）学位研究生章程",
+      "date": "2026-09-15",
+      "deadline": "以原文为准",
+      "url": "https://gs.dlut.edu.cn/info/1162/51862.htm",
+      "status": "已发布",
+      "source": "大连理工大学研究生院"
+    },
+    {
+      "university": "东北大学",
+      "level": "学校",
+      "title": "东北大学2027年接收优秀应届本科毕业生免试攻读研究生工作办法",
+      "date": "2026-07-20",
+      "deadline": "以原文为准",
+      "url": "https://yz.neu.edu.cn/2026/0720/c5932a458191/page.htm",
+      "status": "已发布",
+      "source": "东北大学研究生招生信息网"
+    },
+    {
+      "university": "复旦大学",
+      "level": "学校",
+      "title": "复旦大学2027年接收优秀应届本科毕业生免试攻读研究生预报名通知",
+      "date": "2026-07-03",
+      "deadline": "以原文为准",
+      "url": "https://gsao.fudan.edu.cn/fb/0b/c15014a785163/page.htm",
+      "status": "已发布",
+      "source": "复旦大学研究生招生网"
+    },
+    {
+      "university": "同济大学",
+      "level": "学校",
+      "title": "同济大学2027年接收推荐免试研究生预报名通知",
+      "date": "2026-07-06",
+      "deadline": "以院系通知为准",
+      "url": "https://yz.tongji.edu.cn/info/1010/4220.htm",
+      "status": "已发布",
+      "source": "同济大学研究生招生网"
+    },
+    {
+      "university": "华东师范大学",
+      "level": "学校",
+      "title": "华东师范大学2027年接收优秀应届本科毕业生免试攻读研究生预报名通知",
+      "date": "2026-07-24",
+      "deadline": "以原文为准",
+      "url": "https://yjszs.ecnu.edu.cn/c2/c6/c43264a770758/page.htm",
+      "status": "校级预报名已截止",
+      "source": "华东师范大学研究生招生网"
+    },
+    {
+      "university": "南京大学",
+      "level": "学校",
+      "title": "南京大学2027年接收推荐免试研究生工作办法",
+      "date": "2026-09-08",
+      "deadline": "以原文为准",
+      "url": "https://yzb.nju.edu.cn/",
+      "status": "已发布",
+      "source": "南京大学研究生招生网"
+    },
+    {
+      "university": "东南大学",
+      "level": "学校",
+      "title": "东南大学2027年接收推荐免试研究生预报名通知",
+      "date": "2026-07-06",
+      "deadline": "以原文为准",
+      "url": "https://yzb.seu.edu.cn/2026/0706/c6676a575627/page.htm",
+      "status": "校级预报名已截止",
+      "source": "东南大学研究生招生网"
+    },
+    {
+      "university": "浙江大学",
+      "level": "学校",
+      "title": "浙江大学关于2027年接收外校推荐免试研究生工作安排的通知",
+      "date": "2026-08-05",
+      "deadline": "2026-09-10",
+      "url": "https://www.grs.zju.edu.cn/yjszs/2026/0805/c28479a3193539/page.htm",
+      "status": "校级预报名已截止",
+      "source": "浙江大学研究生院"
+    },
+    {
+      "university": "中国科学技术大学",
+      "level": "学校",
+      "title": "中国科学技术大学2027年推免生接收办法",
+      "date": "2026-09-03",
+      "deadline": "以原文为准",
+      "url": "https://yz.ustc.edu.cn/article/2850/182",
+      "status": "已发布",
+      "source": "中国科学技术大学研究生招生网"
+    },
+    {
+      "university": "厦门大学",
+      "level": "学校",
+      "title": "厦门大学2027年接收推荐免试研究生（含直博生）申请办法",
+      "date": "2026-09-16",
+      "deadline": "以原文为准",
+      "url": "https://zs.xmu.edu.cn/info/1174/36812.htm",
+      "status": "已发布",
+      "source": "厦门大学招生网"
+    },
+    {
+      "university": "山东大学",
+      "level": "学校",
+      "title": "山东大学2027年接收推荐免试硕士研究生和本科直博生预报名通知",
+      "date": "2026-08-28",
+      "deadline": "由各招生单位确定",
+      "url": "https://www.yz.sdu.edu.cn/info/1022/1463.htm",
+      "status": "已发布",
+      "source": "山东大学研究生招生信息网"
+    },
+    {
+      "university": "华中科技大学",
+      "level": "学校",
+      "title": "华中科技大学2027年接收推荐免试研究生预报名及复试工作安排",
+      "date": "2026-09-09",
+      "deadline": "各院系另行通知",
+      "url": "https://gszs.hust.edu.cn/info/1106/4142.htm",
+      "status": "已发布",
+      "source": "华中科技大学研究生招生信息网"
+    },
+    {
+      "university": "湖南大学",
+      "level": "学校",
+      "title": "湖南大学2027年接收推荐免试研究生（含直博生）预报名通知",
+      "date": "2026-08-28",
+      "deadline": "以招生学院通知为准",
+      "url": "https://gra.hnu.edu.cn/info/1075/10560.htm",
+      "status": "已发布",
+      "source": "湖南大学研究生院"
+    },
+    {
+      "university": "中南大学",
+      "level": "学校",
+      "title": "中南大学关于2027年接收推荐免试攻读硕士学位研究生工作的通知",
+      "date": "2026-09-18",
+      "deadline": "以原文为准",
+      "url": "https://yz.csu.edu.cn/info/1009/1538.htm",
+      "status": "已发布",
+      "source": "中南大学研究生招生网"
+    },
+    {
+      "university": "重庆大学",
+      "level": "学校",
+      "title": "重庆大学2027年推荐免试研究生（含直博生）招生预报名公告",
+      "date": "2026-06-22",
+      "deadline": "2026-09-30 18:00",
+      "url": "https://yz.cqu.edu.cn/news/2026-06/2553.html",
+      "status": "报名中",
+      "source": "重庆大学研究生招生信息网"
+    },
+    {
+      "university": "四川大学",
+      "level": "学校",
+      "title": "四川大学2027年接收推荐免试攻读研究生章程",
+      "date": "2026-09-08",
+      "deadline": "以原文为准",
+      "url": "https://yz.scu.edu.cn/zsxx/Details/0f4bc2fc-e7d8-455d-b0e3-8ad680196df1",
+      "status": "已发布",
+      "source": "四川大学研究生招生信息网"
+    },
+    {
+      "university": "电子科技大学",
+      "level": "学校",
+      "title": "电子科技大学2027年接收优秀应届本科毕业生免试攻读研究生通知",
+      "date": "2026-09-04",
+      "deadline": "以原文为准",
+      "url": "https://yz.uestc.edu.cn/info/1082/5936.htm",
+      "status": "已发布",
+      "source": "电子科技大学研究生招生网"
+    },
+    {
+      "university": "西北工业大学",
+      "level": "学校",
+      "title": "西北工业大学2027年接收推荐免试研究生预报名通知",
+      "date": "2026-09-04",
+      "deadline": "以原文为准",
+      "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+      "status": "已发布",
+      "source": "西北工业大学研究生招生信息网"
+    },
+    {
+      "university": "西北农林科技大学",
+      "level": "学校",
+      "title": "西北农林科技大学2027年接收推荐免试研究生预报名通知",
+      "date": "2026-09-10",
+      "deadline": "以原文为准",
+      "url": "https://yz.nwafu.edu.cn/tzgg/efc5ad22976f45b595487499b6c39d8e.htm",
+      "status": "已发布",
+      "source": "西北农林科技大学研究生招生网"
+    },
+    {
+      "university": "吉林大学",
+      "level": "学校",
+      "title": "吉林大学2027年接收优秀应届本科毕业生免试攻读研究生招生简章及专业目录",
+      "date": "2026-09-11",
+      "deadline": "复试原则上于2026-10-15前组织，具体以学院通知为准",
+      "url": "https://yzb.jlu.edu.cn/info/1047/3637.htm",
+      "status": "已发布",
+      "source": "吉林大学研究生招生信息网"
+    },
+    {
+      "university": "上海交通大学",
+      "level": "学校",
+      "title": "上海交通大学2027年招收优秀应届本科毕业生免试攻读研究生（含直博）办法",
+      "date": "2026-09-15",
+      "deadline": "以学校及招生学院通知为准",
+      "url": "https://yzb.sjtu.edu.cn/",
+      "status": "已发布",
+      "source": "上海交通大学研究生招生网"
+    },
+    {
+      "university": "中国海洋大学",
+      "level": "学校",
+      "title": "中国海洋大学2027年接收推荐免试研究生预报名通知",
+      "date": "2026-07-23",
+      "deadline": "以原文及学校系统为准",
+      "url": "https://yz.ouc.edu.cn/",
+      "status": "已发布",
+      "source": "中国海洋大学研究生招生信息网"
+    },
+    {
+      "university": "北京大学",
+      "level": "学校",
+      "title": "北京大学2027年接收推荐免试研究生办法（校本部）",
+      "date": "2026-08-31",
+      "deadline": "以校级办法和院系通知为准",
+      "url": "https://admission.pku.edu.cn/zsxx/sszs/tjms/index.htm",
+      "status": "已发布",
+      "source": "北京大学研究生招生网"
+    },
+    {
+      "university": "中国农业大学",
+      "level": "学校",
+      "title": "关于中国农业大学2027年接收优秀应届本科毕业生免试攻读研究生报名的通知",
+      "date": "2026-07-14",
+      "deadline": "以原文为准",
+      "url": "https://yz.cau.edu.cn/",
+      "status": "已发布",
+      "source": "中国农业大学研究生院招生网"
+    },
+    {
+      "university": "哈尔滨工业大学",
+      "level": "学校",
+      "title": "哈尔滨工业大学关于2027年接收优秀应届本科毕业生免试攻读研究生报名的通知",
+      "date": "2026-07-19",
+      "deadline": "以原文为准",
+      "url": "https://yzb.hit.edu.cn/2026/0717/c22276a397589/page.htm",
+      "status": "已发布",
+      "source": "哈尔滨工业大学研究生招生网"
+    },
+    {
+      "university": "武汉大学",
+      "level": "学校",
+      "title": "武汉大学2027年接收优秀应届本科毕业生免试攻读研究生公告",
+      "date": "2026-09-03",
+      "deadline": "以校级公告及招生单位通知为准",
+      "url": "https://yz.whu.edu.cn/",
+      "status": "已发布",
+      "source": "武汉大学研究生招生网"
+    },
+    {
+      "university": "中山大学",
+      "level": "学校",
+      "title": "中山大学2027年接收推荐免试研究生招生工作办法",
+      "date": "2026-09-10",
+      "deadline": "以原文为准",
+      "url": "https://graduate.sysu.edu.cn/zsw/",
+      "status": "已发布",
+      "source": "中山大学研究生招生网"
+    },
+    {
+      "university": "西安交通大学",
+      "level": "学校",
+      "title": "西安交通大学2027年接收推荐免试研究生招生章程",
+      "date": "2026-09-02",
+      "deadline": "以原文为准",
+      "url": "https://yz.xjtu.edu.cn/index/tms.htm",
+      "status": "已发布",
+      "source": "西安交通大学研究生招生信息网"
+    },
+    {
+      "university": "中国人民大学",
+      "level": "学校",
+      "title": "中国人民大学2027年校级推免接收通知状态待核实",
+      "date": "",
+      "deadline": "请打开学校官方招生入口查看最新公告",
+      "url": "https://pgs.ruc.edu.cn/sszs/17.htm",
+      "status": "待核实",
+      "source": "中国人民大学研究生招生网"
+    },
+    {
+      "university": "国防科技大学",
+      "level": "学校",
+      "title": "国防科技大学2027年校级推免接收通知状态待核实",
+      "date": "",
+      "deadline": "请打开学校官方招生入口查看最新公告",
+      "url": "https://yjszs.nudt.edu.cn/",
+      "status": "待核实",
+      "source": "国防科技大学研究生招生信息网"
+    },
+    {
+      "university": "华南理工大学",
+      "level": "学校",
+      "title": "华南理工大学2027年校级推免接收通知状态待核实",
+      "date": "",
+      "deadline": "请打开学校官方招生入口查看最新公告",
+      "url": "https://yz.scut.edu.cn/",
+      "status": "待核实",
+      "source": "华南理工大学研究生招生网"
+    },
+    {
+      "university": "兰州大学",
+      "level": "学校",
+      "title": "兰州大学2027年校级推免接收通知状态待核实",
+      "date": "",
+      "deadline": "请打开学校官方招生入口查看最新公告",
+      "url": "https://yz.lzu.edu.cn/",
+      "status": "待核实",
+      "source": "兰州大学研究生招生网"
+    }
+  ]
+}
